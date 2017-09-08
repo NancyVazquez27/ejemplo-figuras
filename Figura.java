@@ -21,9 +21,9 @@ public class Figura
         System.out.println("No se como calcular el area, no se de que figura se trata");
     }
     
-    public void impirmirArea()
+    public void imprimirArea()
     {
-        System.out.println(" El area de la figura es: +area");
+        System.out.println(" El area de la figura es: "+area);
     }
 }
     
