@@ -13,11 +13,17 @@ public class Circulo extends Figura
     {
         radio=unRadio;
     }
+    
     @Override // Con esto le avisas al compilador que te avise de la sobreescrituta
     
     public void calcularArea()
     {
         area= 3.14f * radio * radio;
+    }
+    
+    public void imprimirArea()
+    {
+        System.out.println(" El area de la figura es: "+area);
     }
     
 }

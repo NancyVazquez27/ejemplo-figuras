@@ -1,7 +1,7 @@
 // Documentar
 /** 
  * Esta clase es una super clase para representar las caracteristicas 
- * comunes de muchas figurasa.
+ * comunes de muchas figuras.
  * 
  * @author Nancy Vazquez
  * @version 8 Sep 2017
